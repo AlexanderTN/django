@@ -1,0 +1,21 @@
+body{
+  /* background: gray; */
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/75/d4/9c/75d49cae7f882eb6d9d4c12302d4587d.jpg);
+  background-repeat:repeat;
+}
+
+div{
+  background:blue;
+  border-color: orange;
+  border-width: 2px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color:black
+}

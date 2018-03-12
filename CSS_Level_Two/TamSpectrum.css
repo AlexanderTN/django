@@ -1,0 +1,49 @@
+h1{
+  text-align: center;
+  font-family: 'Condiment', cursive;
+}
+
+/* When use table class and when use id */
+/* https://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it */
+.tbl{
+  margin: auto;
+}
+
+td{
+  width: 150px;
+  height: 300px;
+  border: 6px solid white;
+}
+
+
+
+/* #trow{
+  width: 5px;
+  height: 500px;
+  margin: 50px 150px 0px 150px;
+} */
+
+#a{
+  /* align-items: center; */
+  background-color: #18206F;
+}
+
+#b{
+  /* align-items: center; */
+  background-color: #CFCCD6;
+}
+
+#c{
+  /* align-items: center; */
+  background-color: #17255A;
+}
+
+#d{
+  /* align-items: center; */
+  background-color: #D88373;
+}
+
+#e{
+  /* align-items: center; */
+  background-color: #BD1E1E;
+}

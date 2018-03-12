@@ -1,0 +1,37 @@
+h1{
+  font-family: "Arial";
+}
+
+p{
+  font-family: monospace;
+}
+
+body {
+  font-size: 14px;
+}
+
+#two{
+  font-family: 'Great Vibes', cursive;
+  font-size: 2em;
+}
+
+#three{
+   font-family: 'AlexBrushRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 4em;
+}
+
+p{
+  font-family: 'Spectral SC', serif;
+}
+
+/* font-family: 'Spectral SC', serif;
+font-family: 'Great Vibes', cursive; */
+
+h1{
+  text-align: center;
+}
+
+/* 1em = 16px
+2em = 32px */
